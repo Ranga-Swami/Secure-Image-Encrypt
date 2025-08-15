@@ -157,7 +157,7 @@ Activity logs are stored in `logs/activity_log.csv` with timestamps and detailed
 
 ## Developed By:
 1. **Varigonda Lakshmi Srinivas** 
-2. **Pattel Pranay Reddy**
+2. **Ravipati Ranga Swami Reddy**
 
 ## License
 
@@ -166,5 +166,6 @@ This project is provided as-is for educational and personal use.
 ## Contributing
 
 Feel free to submit issues, feature requests, or pull requests to improve the application.
+
 
 
